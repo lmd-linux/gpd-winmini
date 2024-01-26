@@ -1,0 +1,12 @@
+Source: gpd-winmini
+Maintainer: lmd Linux <lmd.linux@gmail.com>
+Section: misc
+Priority: important
+Standards-Version: 4.6.2
+Build-Depends: debhelper-compat (= 13)
+
+Package: gpd-winmini
+Architecture: all
+Depends: lmd-minimal
+Description: Minimal set of packages for lmd Linux
+ Packages and configuration for a minimal lmd Linux installation
